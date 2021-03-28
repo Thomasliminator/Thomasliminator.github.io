@@ -1,0 +1,14 @@
+table{
+    table-layout: fixed;
+    width: 300px;
+}
+th{ 
+    color:#fff;
+    text-align: left;
+}
+td{
+    text-align: left;
+}
+.btn{
+    padding: 0px 0px 0px 0px
+}
